@@ -9,7 +9,7 @@ h2{
 
 }
 li{
-	background: url("/imgs/tinyM.png") 0 50% no-repeat;
+	background: url("https://gwenoh.github.io/discussions/html_practice//imgs/tinyM.png") 0 50% no-repeat;
 	list-style-type: none;
         padding-left: 12px;
         color: pink;
