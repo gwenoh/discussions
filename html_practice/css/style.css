@@ -1,0 +1,20 @@
+body{
+
+}
+h1{
+	text-align: center;
+	color: #424242;
+
+}
+h2{
+	color: blue;
+	text-shadow: 1px 1px #000000;
+
+}
+li{
+	background: url("/img/logo.jpg") 0 50% no-repeat;
+	list-style-type: none;
+    padding-left: 12px;
+    color: red;
+
+}
